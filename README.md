@@ -107,6 +107,7 @@ or
   * Master Dashboard navigation
 
 ### Student Interface
+<img width="1912" height="861" alt="image" src="https://github.com/user-attachments/assets/591917da-491e-40ed-baa5-2cdfd90be321" />
 
 * Profile menu available directly within the embed.
 * Stores up to three local student profiles for testing and convenience.
