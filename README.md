@@ -91,6 +91,7 @@ or
 ## UI & Responsiveness (Criterion 3.1)
 
 ### Lecturer Interface
+<img width="674" height="375" alt="Screenshot 2026-06-07 165105" src="https://github.com/user-attachments/assets/0fac9429-dca6-4db6-abcb-a05e0b19fc3b" />
 
 * Course and activity creation/editing use accessible modal dialogs.
 * Modals support:
