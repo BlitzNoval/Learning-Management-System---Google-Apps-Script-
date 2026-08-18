@@ -1,4 +1,5 @@
 # Learning-Management-System---Google-Apps-Script-
+<img width="1672" height="941" alt="Cohort" src="https://github.com/user-attachments/assets/fafbbf87-b977-48c6-ab86-f6932e65f76b" />
 
 # Cohort — Interactive Learning Module App
 
